@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dasdasdas
 dasdasdasdas
 dasdasdasdas
@@ -8,9 +9,17 @@ dasdasdasdasas
 dasdasdasdasasdas
 dasdasdasdasasdasas
 d
+=======
+stash
+
+>>>>>>> home
 dasdasdasd
 as
 
 dasdasdasdasdas
+<<<<<<< HEAD
 dasdasdasddas
 
+=======
+dasdasdasddas
+>>>>>>> home
