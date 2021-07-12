@@ -14,10 +14,7 @@ stash
 
 >>>>>>> home
 dasdasdasd
-as
-
-dasdasdasdasdas
-<<<<<<< HEAD
+asdasdas
 dasdasdasddas
 
 =======
